@@ -19,7 +19,8 @@ I build and ship real-world web apps using modern technologies.
 | 🛒 ShopZone        | Full-stack ecommerce app with JWT auth, cart & orders | [Live](https://shopzone-ecommerce-fawn.vercel.app)      |
 | 📝 Full-Stack Blog | CRUD blog with React + Node.js + MongoDB              | [Live](https://sardarmrashed.github.io/fullstack-blog/) |
 | 🎬 Movie Search    | Search movies using OMDb API                          | [Live](https://sardarMrashed.github.io/react-movies)    |
-| ✅ Todo App        | Task manager with React + localStorage                | [Live](https://sardarMrashed.github.io/react-todo)      |
+| ✅ Todo App        | Task manager with React + localStorage                | [Live](https://sardarMrashed.github.io/react-todo)    
+| 🤖 AI Resume Analyzer | Upload a PDF resume and get instant AI feedback using Groq AI | [Live](https://resume-analyzer-flax-one.vercel.app) ||
 
 ## 📫 Connect with me
 
