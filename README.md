@@ -25,6 +25,6 @@ I build and ship real-world web apps using modern technologies.
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sardar-mohammed-rashid/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://sardarMrashed.github.io/sardar-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://sardar-portfolio.vercel.app)
 
 💼 **Open to Junior Developer roles!**
