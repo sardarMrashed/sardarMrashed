@@ -19,7 +19,7 @@ I work with **React on the frontend** and **Node.js, Express, and MongoDB on the
 I'm strengthening my **TypeScript, PostgreSQL, testing, and software engineering workflow** while building projects in public.
 
 - **Based in:** Kurdistan Region, Iraq
-- **Interested in:** Junior frontend/full-stack positions, internships, and remote collaboration
+- **Interested in:**full-stack positions, internships, and remote collaboration
 - **Approach:** Clear documentation, maintainable code, and steady improvements
 
 ## Selected projects
