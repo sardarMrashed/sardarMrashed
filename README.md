@@ -60,7 +60,7 @@ Content application demonstrating create, read, update, and delete workflows acr
 
 **React · Express · MongoDB**
 
-[Repository](https://github.com/sardarMrashed/fullstack-blog) · [Demo](https://sardarmrashed.github.io/fullstack-blog/)
+[Repository](https://github.com/sardarMrashed/fullstack-blog) · [Demo](https://fullstack-blog-iota-black.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
@@ -79,11 +79,11 @@ Mobile shopping interface featuring product discovery, an API-backed catalog, an
 
 ## In focus: DataPilot Enterprise
 
-**[DataPilot Enterprise →](https://github.com/sardarMrashed/datapilot)**
+**[DataPilot Enterprise](https://github.com/sardarMrashed/datapilot)** · [Source code & progress](https://github.com/sardarMrashed/datapilot)
 
 A structured full-stack application project, developed with an emphasis on component design, maintainable architecture, and a disciplined Git workflow.
 
-**Current foundation:** React, TypeScript, and Vite.  
+**Current implementation:** React, TypeScript, and Vite frontend scaffold.  
 **Architecture roadmap:** Express API, PostgreSQL, automated testing, and deployment.
 
 I use this project to document engineering decisions, develop features in deliberate increments, and strengthen the practices that matter when working on a team.
