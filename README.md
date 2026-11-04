@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sardar Mohammed Rashid
+<img src="./assets/profile-banner.svg" alt="Sardar Mohammed Rashid | Full-Stack Developer" width="100%" />
 
 ### Full-Stack Developer | React · TypeScript · Node.js
 
